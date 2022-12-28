@@ -2,3 +2,5 @@
 # Earthbuild
 
 This is a german Minecraft Server with open source projects like Plugins.
+
+You can also check out our Website! ![https://earthbuild-website.vercel.app/](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white)
